@@ -1,0 +1,14 @@
+﻿data/raw/*
+data/processed/*
+!data/sample_data.csv
+checkpoints/*.pt
+*.onnx
+*.pkl
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.env
+.DS_Store
+.idea/
+.vscode/
